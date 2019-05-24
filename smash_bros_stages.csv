@@ -1,0 +1,122 @@
+id,stage,n64,melee,brawl,3ds,wiiu,ultimate
+1,3D Land,No,No,No,Yes,No,Yes
+2,75m,No,No,Yes,No,Yes,Yes
+3,Arena Ferox,No,No,No,Yes,No,Yes
+4,Balloon Fight,No,No,No,Yes,No,Yes
+5,Battlefield[1],No[2],Battlefield in Melee,Battlefield in Brawl,Battlefield in Smash 4,Battlefield in Ultimate,
+6,Big Battlefield,No,No,No,No,Big Battlefield in Smash 4,Big Battlefield in Ultimate
+7,Big Blue[3],No,Yes,Yes,No,Yes,
+8,Boxing Ring,No,No,No,Yes,Yes,
+9,Bridge of Eldin,No,No,Yes,No,Yes,Yes
+10,Brinstar[4],No,Yes,Yes,Yes,No,Yes
+11,Brinstar Depths[5],No,Yes,No,No,Yes,
+12,Castle Siege,No,No,Yes,No,Yes,Yes
+13,Coliseum,No,No,No,No,Yes,Yes
+14,Corneria[6],No,Yes,Yes,Yes,No,Yes
+15,Delfino Plaza,No,No,Yes,No,Yes,Yes
+16,Distant Planet,No,No,Yes,Yes,No,Yes
+17,Dracula's Castle,No,No,No,No,Yes,
+18,Dream Land Super Smash Bros.[7],Yes,Yes,No,Yes,Yes,
+19,Dream Land GB[8],No,No,No,Yes,No,Yes
+20,Duck Hunt,No,No,No,Yes,Yes,Yes
+21,Figure-8 Circuit[9],No,No,Yes,No,Yes,Yes
+22,Final Destination[10],No[2],Final Destination in Melee,Final Destination in Brawl,Final Destination in Smash 4,Final Destination in Ultimate,
+23,Find Mii,No,No,No,Yes,No,Yes
+24,Flat Zone [11],No,Yes,No,No,No[12],No[12]
+25,Flat Zone 2,No,No,Yes,Yes,No[12],No[12]
+26,Flat Zone X,No,No,No,No,Yes,Yes
+27,Fountain of Dreams[13],No,Yes,No,No,Yes,
+28,Fourside[14],No,Yes,No,No,Yes,
+29,Frigate Orpheon,No,No,Yes,No,Yes,
+30,Gamer,No,No,No,No,Yes,Yes
+31,Garden of Hope,No,No,No,No,Yes,Yes
+32,Gaur Plain,No,No,No,Yes,Yes,
+33,Gerudo Valley,No,No,No,Yes,No,Yes
+34,Golden Plains,No,No,No,Yes,No,Yes
+35,Great Bay[15],No,Yes,No,No,Yes,
+36,The Great Cave Offensive,No,No,No,No,Yes,Yes
+37,Great Plateau Tower,No,No,No,No,Yes,
+38,Green Greens[16],No,Yes,Yes,No,Yes,
+39,Green Hill Zone,No,No,Yes,Yes,No,Yes
+40,Halberd,No,No,Yes,No,Yes,Yes
+41,Hanenbow,No,No,Yes,No,Yes,
+42,Hyrule Castle,Yes,No,No,Yes,Yes,
+43,Icicle Mountain[17],No,Yes,No,No,No,
+44,Jungle Hijinxs,No,No,No,No,Yes,No
+45,Jungle Japes[18],No,Yes,Yes,Yes,No,Yes
+46,Kalos Pokémon League,No,No,No,No,Yes,Yes
+47,Kongo Falls[19],No,Yes,No,No,Yes,
+48,Kongo Jungle Super Smash Bros.[20],Yes,Yes,No,No,Yes,Yes
+49,Living Room,No,No,No,Yes,No,Yes
+50,Luigi's Mansion,No,No,Yes,No,Yes,Yes
+51,Lylat Cruise,No,No,Yes,No,Yes,Yes
+52,Magicant,No,No,No,Yes,No,Yes
+53,Mario Bros.,No,No,Yes,No,Yes,
+54,Mario Circuit Super Smash Bros. for Wii U,No,No,No,No,Yes,Yes
+55,Mario Galaxy,No,No,No,No,Yes,Yes
+56,Mementos,No,No,No,No,Yes,
+57,Midgar,No,No,No,Yes,Yes,
+58,Miiverse,No,No,No,No,Yes,No
+59,Moray Towers,No,No,No,No,Yes,
+60,Mushroom Kingdom Super Smash Bros.,Yes,No,No,No,Yes,
+61,Mushroom Kingdom Super Smash Bros. Melee[21],No,Yes,No,No,No,
+62,Mushroom Kingdom II[22],No,Yes,No,No,Yes,
+63,Mushroomy Kingdom,No,No,Yes[23],Yes[24],No,Yes[24]
+64,Mushroom Kingdom U,No,No,No,No,Yes,Yes
+65,Mute City Super Smash Bros. Melee[25],No,Yes,No,No,No,
+66,Mute City SNES[26],No,No,No,Yes,No,Yes
+67,New Donk City Hall,No,No,No,No,Yes,
+68,New Pork City,No,No,Yes,No,Yes,
+69,Norfair,No,No,Yes,No,Yes,Yes
+70,Onett[27],No,Yes,Yes,No,Yes,Yes
+71,Orbital Gate Assault,No,No,No,No,Yes,No
+72,Pac-Land,No,No,No,No,Yes,Yes
+73,Pac-Maze,No,No,No,Yes,No,No
+74,Palutena's Temple,No,No,No,No,Yes,Yes
+75,Paper Mario,No,No,No,Yes,No,Yes
+76,Peach's Castle,Yes,No,No,Yes,Yes,
+77,Princess Peach's Castle[28],No,Yes,No,No,Yes,
+78,PictoChat,No,No,Yes,No,No,
+79,PictoChat 2,No,No,No,Yes,No,Yes
+80,Pilotwings,No,No,No,No,Yes,Yes
+81,Pirate Ship,No,No,Yes,No,Yes,Yes
+82,Planet Zebes,Yes,No,No,No,No,
+83,Poké Floats[29],No,Yes,No,No,No,
+84,Pokémon Stadium[30],No,Yes,Yes,No,Yes,
+85,Pokémon Stadium 2,No,No,Yes,No,Yes,Yes
+86,Port Town Aero Dive,No,No,Yes,No,Yes,Yes
+87,Prism Tower,No,No,No,Yes,No,Yes
+88,Pyrosphere,No,No,No,No,Yes,No
+89,Rainbow Cruise[31],No,Yes,Yes,No,Yes,
+90,Rainbow Road,No,No,No,Yes,No,No
+91,Reset Bomb Forest,No,No,No,Yes,No,Yes
+92,Rumble Falls,No,No,Yes,No,No,
+93,Saffron City,Yes,No,No,No,Yes,
+94,Sector Z,Yes,No,No,No,No,
+95,Shadow Moses Island,No,No,Yes,No,Yes,
+96,Skyloft,No,No,No,No,Yes,Yes
+97,Skyworld,No,No,Yes,No,Yes,Yes
+98,Smashville,No,No,Yes,No,Yes,Yes
+99,Spear Pillar,No,No,Yes,No,Yes,
+100,Spirit Train,No,No,No,Yes,No,Yes
+101,Summit,No,No,Yes,No,Yes,
+102,Super Happy Tree[32],Yes,Yes,No,No,Yes,
+103,Super Mario Maker,No,No,No,Yes,Yes,
+104,Suzaku Castle,No,No,No,Yes,Yes,
+105,Temple[33],No,Yes,Yes,No,Yes,Yes
+106,Tomodachi Life,No,No,No,Yes,No,Yes
+107,Tortimer Island,No,No,No,Yes,No,Yes
+108,Town and City,No,No,No,No,Yes,Yes
+109,Umbra Clock Tower,No,No,No,Yes,Yes,
+110,Unova Pokémon League,No,No,No,Yes,No,Yes
+111,Venom[34],No,Yes,No,No,Yes,
+112,WarioWare,No,No,Yes,Yes,No,Yes
+113,Wii Fit Studio,No,No,No,No,Yes,Yes
+114,Wily Castle,No,No,No,Yes[35],Yes[36],
+115,Windy Hill Zone,No,No,No,No,Yes,Yes
+116,Woolly World,No,No,No,No,Yes,No
+117,Wrecking Crew,No,No,No,No,Yes,Yes
+118,Wuhu Island,No,No,No,No,Yes,Yes
+119,Yoshi's Island Super Smash Bros. Melee[37],No,Yes,Yes,No,Yes,Yes
+120,Yoshi's Island Super Smash Bros. Brawl,No,No,Yes,Yes,No,Yes
+121,Yoshi's Story[38],No,Yes,No,No,Yes,

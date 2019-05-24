@@ -1,0 +1,37 @@
+id,station,match_num,player,char,kos,falls,is_win,damage_given,damage_taken
+1.1,1,1,Xander,Mario,1,2,FALSE,199,287
+1.1,1,1,Chase,Luigi,2,1,TRUE,286,199
+1.2,1,2,Mr. O,Mario,3,1,TRUE,444,223
+1.2,1,2,Tyler,Luigi,1,3,FALSE,223,447
+1.3,1,3,Nikita,Mario,0,3,FALSE,150,298
+1.3,1,3,Oliver,Luigi,3,0,TRUE,297,151
+1.4,1,4,Kevin,Luigi,2,2,TRUE,324,284
+1.4,1,4,Alex,Mario,2,2,FALSE,284,330
+1.5,1,5,Kevin,Luigi,1,3,FALSE,181,382
+1.5,1,5,Daniel,Mario,3,1,TRUE,380,182
+1.6,1,6,Xander,Mario,3,2,TRUE,372,251
+1.6,1,6,Daniel,Luigi,2,3,FALSE,267,378
+2.1,2,1,Daniel,Luigi,2,2,FALSE,407,258
+2.1,2,1,Oliver,Mario,2,2,TRUE,256,407
+2.2,2,2,Daniel,Luigi,3,0,TRUE,222,113
+2.2,2,2,Nikita,Mario,0,3,FALSE,113,225
+2.3,2,3,Kevin,Mario,2,2,TRUE,251,363
+2.3,2,3,Joe,Luigi,2,2,FALSE,362,257
+2.4,2,4,Mr. O,Luigi,2,2,FALSE,327,267
+2.4,2,4,Chase,Mario,2,2,TRUE,263,331
+2.5,2,5,Xander,Mario,3,2,TRUE,325,302
+2.5,2,5,Nikita,Luigi,2,3,FALSE,300,326
+2.6,2,6,Alex,Luigi,2,2,TRUE,457,244
+2.6,2,6,Tyler,Mario,2,2,FALSE,242,457
+3.1,3,1,Nikita,Luigi,3,1,TRUE,238,148
+3.1,3,1,Alex,Mario,1,3,FALSE,112,241
+3.2,3,2,Xander,Luigi,3,0,TRUE,313,92
+3.2,3,2,Joe,Mario,0,3,FALSE,92,317
+3.3,3,3,Mr. O,Luigi,0,3,FALSE,89,269
+3.3,3,3,Daniel,Mario,3,0,TRUE,266,89
+3.4,3,4,Oliver,Mario,2,1,TRUE,375,257
+3.4,3,4,Tyler,Luigi,1,2,FALSE,257,377
+3.5,3,5,Tyler,Mario,2,2,FALSE,258,280
+3.5,3,5,Joe,Luigi,2,2,TRUE,288,289
+3.6,3,6,Oliver,Luigi,3,0,TRUE,374,231
+3.6,3,6,Chase,Mario,0,3,FALSE,229,374

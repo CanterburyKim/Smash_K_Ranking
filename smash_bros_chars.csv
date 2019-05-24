@@ -1,0 +1,79 @@
+id,char,64,melee,brawl,3ds_wii_u,ultimate,franchise
+1,Bayonetta,No,No,No,DLC,Yes,Bayonetta
+2,Bowser,No,Yes,Yes,Yes,Yes,Super Mario
+3,Bowser Jr.[a],No,No,No,Yes,Yes,Super Mario
+4,Captain Falcon,Yes,Yes,Yes,Yes,Yes,F-Zero
+5,Charizard[b],No,No,Yes,Yes,Yes,Pokemon
+6,Chrom[c],No,No,No,No,Yes,Fire Emblem
+7,Cloud,No,No,No,DLC,Yes,Final Fantasy
+8,Corrin,No,No,No,DLC,Yes,Fire Emblem
+9,Daisy[c],No,No,No,No,Yes,Super Mario
+10,Dark Pit[c],No,No,No,Yes,Yes,Kid Icarus
+11,Dark Samus[c],No,No,No,No,Yes,Metroid
+12,Diddy Kong,No,No,Yes,Yes,Yes,Donkey Kong
+13,Donkey Kong,Yes,Yes,Yes,Yes,Yes,Donkey Kong
+14,Dr. Mario,No,Yes,No,Yes,Yes,Super Mario
+15,Duck Hunt[d],No,No,No,Yes,Yes,Duck Hunt
+16,Falco,No,Yes,Yes,Yes,Yes,Star Fox
+17,Fox,Yes,Yes,Yes,Yes,Yes,Star Fox
+18,Ganondorf,No,Yes,Yes,Yes,Yes,The Legend of Zelda
+19,Greninja,No,No,No,Yes,Yes,Pokemon
+20,Ice Climbers,No,Yes,Yes,No,Yes,Ice Climber
+21,Ike,No,No,Yes,Yes,Yes,Fire Emblem
+22,Incineroar,No,No,No,No,Yes,Pokemon
+23,Inkling,No,No,No,No,Yes,Splatoon
+24,Isabelle,No,No,No,No,Yes,Animal Crossing
+25,Ivysaur[b],No,No,Yes,No,Yes,Pokemon
+26,Jigglypuff,Yes,Yes,Yes,Yes,Yes,Pokemon
+27,Joker,No,No,No,No,DLC,Persona
+28,Ken[c],No,No,No,No,Yes,Street Fighter
+29,King Dedede,No,No,Yes,Yes,Yes,Kirby
+30,King K. Rool,No,No,No,No,Yes,Donkey Kong
+31,Kirby,Yes,Yes,Yes,Yes,Yes,Kirby
+32,Link,Yes,Yes,Yes,Yes,Yes,The Legend of Zelda
+33,Little Mac,No,No,No,Yes,Yes,Punch-Out!!
+34,Lucario,No,No,Yes,Yes,Yes,Pokemon
+35,Lucas,No,No,Yes,DLC,Yes,EarthBound
+36,Lucina[c],No,No,No,Yes,Yes,Fire Emblem
+37,Luigi,Yes,Yes,Yes,Yes,Yes,Super Mario
+38,Mario,Yes,Yes,Yes,Yes,Yes,Super Mario
+39,Marth,No,Yes,Yes,Yes,Yes,Fire Emblem
+40,Mega Man,No,No,No,Yes,Yes,Mega Man
+41,Meta Knight,No,No,Yes,Yes,Yes,Kirby
+42,Mewtwo,No,Yes,No,DLC,Yes,Pokemon
+43,Mii Brawler[e],No,No,No,Yes,Yes,Mii
+44,Mii Swordfighter[e][d],No,No,No,Yes,Yes,Mii
+45,Mii Gunner[e],No,No,No,Yes,Yes,Mii
+46,Mr. Game & Watch,No,Yes,Yes,Yes,Yes,Game & Watch
+47,Ness,Yes,Yes,Yes,Yes,Yes,EarthBound
+48,Olimar[f],No,No,Yes,Yes,Yes,Pikmin
+49,Pac-Man,No,No,No,Yes,Yes,Pac-Man
+50,Palutena,No,No,No,Yes,Yes,Kid Icarus
+51,Peach,No,Yes,Yes,Yes,Yes,Super Mario
+52,Pichu,No,Yes,No,No,Yes,Pokemon
+53,Pikachu,Yes,Yes,Yes,Yes,Yes,Pokemon
+54,Piranha Plant,No,No,No,No,DLC,Super Mario
+55,Pit,No,No,Yes,Yes,Yes,Kid Icarus
+56,Richter[c],No,No,No,No,Yes,Castlevania
+57,Ridley,No,No,No,No,Yes,Metroid
+58,R.O.B.,No,No,Yes,Yes,Yes,R.O.B.
+59,Robin,No,No,No,Yes,Yes,Fire Emblem
+60,Rosalina & Luma,No,No,No,Yes,Yes,Super Mario
+61,Roy,No,Yes,No,DLC,Yes,Fire Emblem
+62,Ryu,No,No,No,DLC,Yes,Street Fighter
+63,Samus[g],Yes,Yes,Yes,Yes,Yes,Metroid
+64,Sheik[h],No,Yes,Yes,Yes,Yes,The Legend of Zelda
+65,Shulk,No,No,No,Yes,Yes,Xenoblade Chronicles
+66,Simon,No,No,No,No,Yes,Castlevania
+67,Snake,No,No,Yes,No,Yes,Metal Gear
+68,Sonic,No,No,Yes,Yes,Yes,Sonic the Hedgehog
+69,Squirtle[b],No,No,Yes,No,Yes,Pokemon
+70,Toon Link,No,No,Yes,Yes,Yes,The Legend of Zelda
+71,Villager,No,No,No,Yes,Yes,Animal Crossing
+72,Wario,No,No,Yes,Yes,Yes,Wario
+73,Wii Fit Trainer,No,No,No,Yes,Yes,Wii Fit
+74,Wolf,No,No,Yes,No,Yes,Star Fox
+75,Yoshi,Yes,Yes,Yes,Yes,Yes,Yoshi
+76,Young Link,No,Yes,No,No,Yes,The Legend of Zelda
+77,Zelda[h],No,Yes,Yes,Yes,Yes,The Legend of Zelda
+78,Zero Suit Samus[g],No,No,Yes,Yes,Yes,Metroid
